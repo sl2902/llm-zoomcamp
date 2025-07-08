@@ -6,3 +6,5 @@
 
 # qdrant storage
 qdrant
+qdrant_storage
+db.qdrant
