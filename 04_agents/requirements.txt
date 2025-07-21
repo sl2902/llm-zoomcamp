@@ -1,0 +1,6 @@
+fastmcp
+python-dotenv
+requests
+aiohttp
+pydantic
+jupyter
